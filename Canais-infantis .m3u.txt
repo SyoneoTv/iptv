@@ -1,0 +1,125 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | INFANTIL", GLOOB HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173182
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL", BABY TV FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173594
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL", BabyTV
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173595
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL", BOOMERANG SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173596
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL", BOOMERANG FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173597
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL", BOOMERANG HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173598
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/74e9f12928e55407934549f66b9539c4.png" group-title="CANAIS | INFANTIL", CARTOON NETWORK FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173599
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL", BABY TV FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173594
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL", BabyTV
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173595
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL", BOOMERANG SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173596
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL", BOOMERANG FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173597
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/2336665748d9da610df39ac9456e49c0.png" group-title="CANAIS | INFANTIL", BOOMERANG HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173598
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/08fc365c4c79445df65f00b6146ca176.png" group-title="CANAIS | INFANTIL", DiscoveryKids
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173605
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/0f6d518b9da56c6a6562c015a8440702.png" group-title="CANAIS | INFANTIL", DISNEY JR SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173606
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/5b6ec20b7c0b1f725154438d65adb87c.png" group-title="CANAIS | INFANTIL", DISNEY CHANNEL FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173607
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/5b6ec20b7c0b1f725154438d65adb87c.png" group-title="CANAIS | INFANTIL", DISNEY CHANNEL HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173608
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/0f6d518b9da56c6a6562c015a8440702.png" group-title="CANAIS | INFANTIL", DISNEY JR FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173609
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/0f6d518b9da56c6a6562c015a8440702.png" group-title="CANAIS | INFANTIL", DISNEY JR HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173610
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/54f2125a387a1c676dee1274916842c9.png" group-title="CANAIS | INFANTIL", DISNEY XD FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173611
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/54f2125a387a1c676dee1274916842c9.png" group-title="CANAIS | INFANTIL", DISNEY XD SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173612
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/13c63d11e38aafa42b576b451670f40d.png" group-title="CANAIS | INFANTIL", GLOOB SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173613
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/13c63d11e38aafa42b576b451670f40d.png" group-title="CANAIS | INFANTIL", GLOOB FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173614
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/de9d011583da3b55267fa5659e64fcad.png" group-title="CANAIS | INFANTIL", NATGEO KIDS HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173615
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/de9d011583da3b55267fa5659e64fcad.png" group-title="CANAIS | INFANTIL", NATGEO KIDS SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173616
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL", NICK JR FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173617
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL", NICK JR HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173618
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/10a97df9be95a2cbf57ba5661faff624.png" group-title="CANAIS | INFANTIL", NICK JR SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173619
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/0f82929597943068ec4a9c7f084f78b7.png" group-title="CANAIS | INFANTIL", Nickelodeon
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173620
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/0f82929597943068ec4a9c7f084f78b7.png" group-title="CANAIS | INFANTIL", Nickelodeon HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173621
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/40acc3f91847049d226ddfac478b7384.png" group-title="CANAIS | INFANTIL", Play kids SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173622
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL", TOONCAST SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173623
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL", TOONCAST FHD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173624
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/64152c9fc516f00e43f3a9200b5a0f16.png" group-title="CANAIS | INFANTIL", TOONCAST HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173625
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/362176f59b37674139e1ca75721f0502.png" group-title="CANAIS | INFANTIL", GLOBINHO HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173626
+
+#EXTINF:-1 tvg-logo="http://dns.jslinkdns.xyz:80/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="CANAIS | INFANTIL", ZOOMOO SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173627
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/5b6ec20b7c0b1f725154438d65adb87c.png" group-title="CANAIS | INFANTIL", DISNEY CHANNEL SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173628
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/4c2bfaa5cf3a4da38049ddf2afed16cd.png" group-title="CANAIS | INFANTIL", BABY TV SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173630
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/74e9f12928e55407934549f66b9539c4.png" group-title="CANAIS | INFANTIL", CARTOON NETWORK SD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173631
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/54f2125a387a1c676dee1274916842c9.png" group-title="CANAIS | INFANTIL", DISNEY XD HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173633
+
+#EXTINF:-1 tvg-logo="http://dns.jserverstv.ml:80/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="CANAIS | INFANTIL", ZOOMOO HD
+http://dns.blackouthd.xyz:80/8fsy9vdrke/dodiq5uxf4/173634
+
